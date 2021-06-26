@@ -1,6 +1,6 @@
 ### Hi there, I'm md shahidur rahman 👋
 
-## I want to be Security Researcher, Husband, Father, Developer!!
+## I want to be Security Researcher.
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute to Open Source projects
